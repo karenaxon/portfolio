@@ -2,6 +2,11 @@ body{
   background-color: #e0e0db;
 }
 
+#top-of-page{
+  height: .3rem;
+  background-color: tomato;
+}
+
 #nav-logo {
   width: 120px;
   height: 115px;
@@ -13,4 +18,18 @@ body{
 
 #active {
   color: black;
+}
+
+#bottom-of-page{
+  height: .3rem;
+  background-color: tomato;
+}
+
+footer {
+  background-color: #343a40;
+}
+
+#karen-img{
+  width: 400px;
+  height: 500px;
 }
