@@ -30,12 +30,5 @@ body{
 }
 
 #active {
-  color: #ff652f;
-  font-weight: 500;
-  /* background-color: #343a40; */
-}
-
-#karen-img{
-  width: 400px;
-  height: 500px;
+  color: black;
 }
