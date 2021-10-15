@@ -39,3 +39,8 @@ body{
   width: 400px;
   height: 500px;
 }
+
+#text-box {
+  border: 1px solid #343a40;
+  padding: 2rem;
+}
