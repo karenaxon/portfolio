@@ -1,0 +1,16 @@
+body{
+  background-color: #e0e0db;
+}
+
+#nav-logo {
+  width: 120px;
+  height: 115px;
+}
+
+.navbar {
+  background-color: #e0e0db;
+}
+
+#active {
+  color: black;
+}
