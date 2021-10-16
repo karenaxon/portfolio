@@ -11,8 +11,12 @@
 Landing page for Karen Axon's programming portfolio.
 
 ## Link to Repository in GitHub
+<<<<<<< HEAD
 * [Karen Axon Portfolio](https://karenaxon.github.io/portfolio/)
 * [Karen Axon Repository](https://github.com/karenaxon/portfolio.git)
+=======
+[Karen Axon Portfolio](https://karenaxon.github.io/portfolio/)
+>>>>>>> gh-pages
 
 ## Setup/Installation 
 * Navigate to the main repository page on GitHub.
