@@ -40,6 +40,10 @@ body{
   height: 500px;
 }
 
+#social-icons {
+  color: #ff652f;
+}
+
 #text-box {
   border: 1px solid #343a40;
   padding: 2rem;
