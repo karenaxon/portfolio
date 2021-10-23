@@ -19,20 +19,16 @@ body{
 #bottom-of-page{
   height: .3rem;
   background-color: #ff652f;
+  margin-top: 60px;
 }
 
 #main-footer {
   background-color: #343a40;
 }
 
-#footer-quote{
-  font-size: medium;
-}
-
 #active {
   color: #ff652f;
   font-weight: 500;
-  /* background-color: #343a40; */
 }
 
 #karen-img{
@@ -40,11 +36,18 @@ body{
   height: 500px;
 }
 
-#social-icons {
-  color: #ff652f;
-}
-
 #text-box {
   border: 1px solid #343a40;
   padding: 2rem;
 }
+
+#quote {
+  margin-right: 80px; 
+  margin-left: 80px;
+}
+
+
+
+
+
+
